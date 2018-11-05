@@ -2,7 +2,7 @@
 The ability to automated geneos alert messages into your Symphony environment.
 
 ### Contents
-- [Geneos Configuration](geneos/README.md)
+- [Scripts](scripts/)
 
 #### Requirements
 You must have python 2.7 or higher to install:
